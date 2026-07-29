@@ -9,7 +9,7 @@ app = Flask(__name__)
 def home():
     return "Bot is running 24/7!"
 
-TELEGRAM_TOKEN = "8798719747:AAEPtqn-V6h10N1Tjye"
+TELEGRAM_TOKEN = "8798719747:AAEPtqn-V6h10N1Tjye9GCpvvLR6LqU-5YE"
 CHAT_ID = "5616783895"
 
 def send_telegram(text):
