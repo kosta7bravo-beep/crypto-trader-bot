@@ -1,1 +1,3 @@
-
+import telebot
+bot = telebot.TeleBot("8798719747:AAEPtqn-V6h10N1Tjye9GCpvvLR6LqU-5YE")
+bot.infinity_polling()
